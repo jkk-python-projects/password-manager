@@ -23,20 +23,16 @@ To use the Password Manager, follow these steps:
 
 1. Clone the repository using the following command:
 git clone https://github.com/jkk-python-projects/password-manager.git
-Copy
 
 2. Navigate to the cloned directory:
 cd password-manager
-Copy
 
 3. Install the required dependencies:
 pip install -r requirements.txt
-Copy
 
 4. Run the Python script:
 python main.py
 pgsql
-Copy
 
 The script will present a menu of options for managing passwords. You can choose options like adding a new password, retrieving an existing password, generating a random password, and more.
 
